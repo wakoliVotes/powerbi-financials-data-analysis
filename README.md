@@ -24,13 +24,6 @@ This project showcases using Power BI to analyze and visualize financial perform
 - Profit – Net profit from the transaction (Sales − COGS).
 - Date, Month Number, Month Name, Year – Temporal indicators for time-series analysis.
 
-**Analyses Using DAX**
-- Some useful and actionable analyses to depict core insights include:
-  1. Performance
-  2. Profitability
-  3. Time trends
-  4. Segmentation
+NOTE:
 
 - All workings, and analysis are done in the [financials pbix file](/financials.pbix), with sample output displayed.
-
----

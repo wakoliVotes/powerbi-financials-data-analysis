@@ -27,3 +27,36 @@ This project showcases using Power BI to analyze and visualize financial perform
 NOTE:
 
 - All workings, and analysis are done in the [financials pbix file](/financials.pbix), with sample output displayed.
+
+## 📊 [Dashboard Features]()
+- Interactive charts for revenue, profit, and sales trends.
+- Slicers for filtering by country, segment, product, and time period.
+- KPI cards for quick insights (Total Sales, Profit Margin, Units Sold).
+- Drill-through pages for detailed transaction analysis.
+
+## 🧮 [DAX Calculations](/DAX/)
+- Custom measures for year-over-year growth, profit margin, and average discount.
+- Time intelligence functions for monthly, quarterly, and yearly comparisons.
+- Dynamic ranking of top products and countries.
+
+## 📈 [Visualizations]()
+- Bar and line charts for trend analysis.
+- Pie and donut charts for segment distribution.
+- Matrix and table visuals for detailed breakdowns.
+- Map visual for geographic sales performance.
+
+## 🛠️ [How to Use]()
+1. Open `financials.pbix` in Power BI Desktop.
+2. Explore the dashboard tabs for different analyses.
+3. Use slicers and filters to customize your view.
+4. Review DAX formulas in the DAX folder for custom calculations.
+
+## 📂 [Folder Structure]()
+- `financials.pbix` – Main Power BI report file.
+- `DAX/` – Contains DAX formulas and documentation.
+- `imgs/` – Dashboard screenshots and visuals.
+
+## 📚 References
+- [Power BI Documentation](https://docs.microsoft.com/power-bi/)
+- [DAX Guide](https://dax.guide/)
+- [Sample Dataset Source](https://learn.microsoft.com/power-bi/create-reports/sample-datasets)

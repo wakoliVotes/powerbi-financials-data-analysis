@@ -62,4 +62,4 @@ This project showcases using Power BI to analyze and visualize financial perform
 - [Sample Dataset Source](https://learn.microsoft.com/power-bi/create-reports/sample-datasets)
 
 ## Read More
-- Interested in other programming, business, and social stories, check out the [MEDIUM Page]()
+- Interested in other programming, business, and social stories, check out the [MEDIUM Page](https://medium.com/me/stories/drafts)
